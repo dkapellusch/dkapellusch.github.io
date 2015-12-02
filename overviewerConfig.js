@@ -15,7 +15,7 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
+            "bgcolor": "#00FF00", 
             "zoomLevels": 8, 
             "base": "", 
             "imgextension": "png", 
